@@ -4,7 +4,7 @@
 
 설명글을 작성하면 된다.
 
-이미지 : 
+이미지 : https://github.com/ChaBongSeok/0515newRepository/blob/master/%EA%B9%83%ED%97%88%EB%B8%8C%EC%9D%B4%EB%AF%B8%EC%A7%80.png
 
 [네이버](https://naver.com "네이버 연결")
 
